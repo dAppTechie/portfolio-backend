@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_description_skill_stacks",
+  "info": {
+    "name": "skill_stack",
+    "icon": "bolt"
+  },
+  "options": {},
+  "attributes": {
+    "skill": {
+      "type": "string"
+    }
+  }
+}
