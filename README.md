@@ -1,3 +1,5 @@
-# Strapi application
+# My portfolio's backend
 
-A quick description of your strapi application
+Strapi, PostgreSQL, Heroku
+
+
